@@ -10,8 +10,6 @@ This repository contains an end-to-end machine learning project for classifying 
 - [Dataset](#dataset)
 - [Model Architecture](#model-architecture)
 - [Results](#results)
-- [Contributing](#contributing)
-- [License](#license)
 
 ## Introduction
 
@@ -65,27 +63,3 @@ The model used in this project is a Convolutional Neural Network (CNN) built wit
 ## Results
 
 The performance of the model is evaluated using metrics such as accuracy, precision, recall, and F1-score. Visualizations of the results, including confusion matrices and sample predictions, are provided in the notebook.
-
-## Contributing
-
-Contributions are welcome! If you have any suggestions, bug reports, or improvements, feel free to create an issue or submit a pull request.
-
-1. Fork the repository.
-2. Create a new branch:
-    ```bash
-    git checkout -b feature-name
-    ```
-3. Commit your changes:
-    ```bash
-    git commit -m "Description of feature"
-    ```
-4. Push to the branch:
-    ```bash
-    git push origin feature-name
-    ```
-5. Create a pull request.
-
-## License
-
-This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for details.
-
